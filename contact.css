@@ -1,0 +1,29 @@
+body {
+ background-color: black;
+ color: white;
+ text-align: center;
+}
+input{
+outline: none;
+height: 8vh;
+background-color: transparent;
+border: 1px solid white;
+color: white;
+font-size: 4vh;
+border-radius: 20px;
+}
+#sub{
+outline: none;
+border-radius: 20px;
+height: 6vh;
+background-color: transparent;
+border: 1px solid white;
+color: white;
+font-size: 3vh;
+}
+a {
+ text-decoration: none;
+ color: white;
+ position: relative;
+ font-size: 4vh;
+}
