@@ -1,0 +1,27 @@
+body {
+ background-color: black;
+ color: white;
+ text-align: center;
+}
+div{
+background-color: transparent;
+border: 1px solid white;
+padding: 20px;
+border-radius: 20px;
+transition-duration: 0.3s;
+box-shadow: 0px 0px 10px white;
+}
+div:hover{
+color: black;
+background-color: aqua;
+border: none;
+}
+a {
+ text-decoration: none;
+ color: white;
+ position: relative;
+ font-size: 4vh;
+ border: 1px solid white;
+ padding: 4px;
+ border-radius: 20px;
+}
