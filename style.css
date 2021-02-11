@@ -1,0 +1,47 @@
+body{
+ text-align: center;
+ background-color: #222;
+}
+.logo{
+height: 48%;
+width: 50%;
+border-radius: 100%;
+margin-top: 70px;
+box-shadow: 0 0 50px black;
+}
+p {
+ color: brown;
+ Font-family: cursive;
+ margin-top: 30px;
+ font-family: cursive;
+}
+.div{
+border-radius: 80px 0 80px 0;
+box-shadow: 0 0 20px white;
+background-image: url("https://image.freepik.com/free-photo/old-gray-cement-wall-backgrounds_34552-325.jpg");
+}
+a {
+ text-decoration: none;
+ color: white;
+ position: relative;
+ font-size: 4vh;
+}
+#cont{
+text-align: left;
+float: left;
+}
+#skill{
+text-align: right;
+float: right;
+position: relative;
+left: -3%;
+}
+#proj{
+text-align: center;
+float: center;
+border: 1px solid white;
+border-radius: 20px;
+height: 10vh;
+font-size: 4vh;
+padding: 10px;
+}
